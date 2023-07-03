@@ -2,4 +2,4 @@
 
 Les sujets des 4 TPs sont disponibles dans le dossier "sujets".
 
-Objectif : Introduction aux méthodes des bases réduites certifiées pour des problèmes elliptiques.
+**Objectif :** Introduction aux méthodes des bases réduites certifiées pour des problèmes elliptiques.
